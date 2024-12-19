@@ -1,4 +1,4 @@
-# Banking-system
+# Banking-system-Application
 # Introduction
 The Banking System is a Python-based application that allows users to manage their banking transactions securely and efficiently. This system is backed by a MySQL database and offers a range of functionalities for user management and banking transactions.
 # Features
